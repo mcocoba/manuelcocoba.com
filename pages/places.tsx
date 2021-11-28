@@ -6,7 +6,7 @@ import data from './../data/places.json';
 export default function Places() {
 
   const Map = dynamic(() => import("../components/Map"), {
-    loading: () => "Loading...",
+    loading: () => <p>Loading...</p>,
     ssr: false
   });
 
