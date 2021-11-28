@@ -1,0 +1,394 @@
+{
+  "places": [
+    {
+      "name": "Hermosillo",
+      "icon": "icon",
+      "latitude": 29.0821369,
+      "longitude": -111.0591988
+    },
+    {
+      "name": "Tijuana",
+      "icon": "icon",
+      "latitude": 32.4966814,
+      "longitude": -117.0882357
+    },
+    {
+      "name": "San Diego",
+      "icon": "icon",
+      "latitude": 32.8242389,
+      "longitude": -117.3898552
+    },
+    {
+      "name": "Los Angeles",
+      "icon": "icon",
+      "latitude": 34.0201597,
+      "longitude": -118.6926086
+    },
+    {
+      "name": "Ensenada",
+      "icon": "icon",
+      "latitude": 31.8423095,
+      "longitude": -116.6801533
+    },
+    {
+      "name": "Mexicali",
+      "icon": "icon",
+      "latitude": 32.613739,
+      "longitude": -115.5205029
+    },
+    {
+      "name": "La Paz",
+      "icon": "icon",
+      "latitude": 24.1164209,
+      "longitude": -110.3729391
+    },
+    {
+      "name": "San Luis Rio Colorado",
+      "icon": "icon",
+      "latitude": 32.4457343,
+      "longitude": -114.7938268
+    },
+    {
+      "name": "Caborca",
+      "icon": "icon",
+      "latitude": 30.7148646,
+      "longitude": -112.1791145
+    },
+    {
+      "name": "Puerto Libertad",
+      "icon": "icon",
+      "latitude": 29.9064573,
+      "longitude": -112.7079415
+    },
+    {
+      "name": "Santa Ana",
+      "icon": "icon",
+      "latitude": 30.5345495,
+      "longitude": -111.1397307
+    },
+    {
+      "name": "Magdalena de Kino",
+      "icon": "icon",
+      "latitude": 30.6315351,
+      "longitude": -110.9928541
+    },
+    {
+      "name": "Nogales",
+      "icon": "icon",
+      "latitude": 31.2875655,
+      "longitude": -110.9717718
+    },
+    {
+      "name": "Agua Prieta",
+      "icon": "icon",
+      "latitude": 31.3115272,
+      "longitude": -109.5856731
+    },
+    {
+      "name": "Cananea",
+      "icon": "icon",
+      "latitude": 30.9871252,
+      "longitude": -110.3015177
+    },
+    {
+      "name": "Arizpe",
+      "icon": "icon",
+      "latitude": 30.3390805,
+      "longitude": -110.1753855
+    },
+    {
+      "name": "Huepac",
+      "icon": "icon",
+      "latitude": 29.9122194,
+      "longitude": -110.2162284
+    },
+    {
+      "name": "Aconchi",
+      "icon": "icon",
+      "latitude": 29.8228001,
+      "longitude": -110.2333377
+    },
+    {
+      "name": "Baviacora",
+      "icon": "icon",
+      "latitude": 29.7164403,
+      "longitude": -110.1680083
+    },
+    {
+      "name": "Benjamin Hill",
+      "icon": "icon",
+      "latitude": 30.1078511,
+      "longitude": -111.2651722
+    },
+    {
+      "name": "Querobabi",
+      "icon": "icon",
+      "latitude": 30.0497055,
+      "longitude": -111.0359043
+    },
+    {
+      "name": "Carbo",
+      "icon": "icon",
+      "latitude": 29.683465,
+      "longitude": -110.9676367
+    },
+    {
+      "name": "Punta Chueca",
+      "icon": "icon",
+      "latitude": 29.01425,
+      "longitude": -112.1626316
+    },
+    {
+      "name": "Bahia de Kino",
+      "icon": "icon",
+      "latitude": 28.8443364,
+      "longitude": -112.0121835
+    },
+    {
+      "name": "Miguel Aleman",
+      "icon": "icon",
+      "latitude": 28.8453724,
+      "longitude": -111.5066586
+    },
+    {
+      "name": "Ures",
+      "icon": "icon",
+      "latitude": 29.4269998,
+      "longitude": -110.393735
+    },
+    {
+      "name": "Mazocahui",
+      "icon": "icon",
+      "latitude": 29.5331459,
+      "longitude": -110.130962
+    },
+    {
+      "name": "Moctezuma",
+      "icon": "icon",
+      "latitude": 29.8059812,
+      "longitude": -109.6892416
+    },
+    {
+      "name": "Huásabas",
+      "icon": "icon",
+      "latitude": 29.9072812,
+      "longitude": -109.3083003
+    },
+    {
+      "name": "Nácori Chico",
+      "icon": "icon",
+      "latitude": 29.685992,
+      "longitude": -109.01717
+    },
+    {
+      "name": "Topahue",
+      "icon": "icon",
+      "latitude": 29.2739471,
+      "longitude": -110.6421554
+    },
+    {
+      "name": "Molino de Camou",
+      "icon": "icon",
+      "latitude": 29.2021466,
+      "longitude": -110.7720307
+    },
+    {
+      "name": "Santa Rosalia",
+      "icon": "icon",
+      "latitude": 29.1223224,
+      "longitude": -110.4962662
+    },
+    {
+      "name": "Mazatan",
+      "icon": "icon",
+      "latitude": 29.0048243,
+      "longitude": -110.148843
+    },
+    {
+      "name": "Campo Verde",
+      "icon": "icon",
+      "latitude": 29.0586103,
+      "longitude": -110.442665
+    },
+    {
+      "name": "Tastiota",
+      "icon": "icon",
+      "latitude": 28.3666659,
+      "longitude": -111.4654429
+    },
+    {
+      "name": "El Choyudo",
+      "icon": "icon",
+      "latitude": 28.3197926,
+      "longitude": -111.47721
+    },
+    {
+      "name": "El Colorado",
+      "icon": "icon",
+      "latitude": 28.2876206,
+      "longitude": -111.4253138
+    },
+    {
+      "name": "San Pedro El Saucito",
+      "icon": "icon",
+      "latitude": 29.1787091,
+      "longitude": -110.9076
+    },
+    {
+      "name": "El Saucito",
+      "icon": "icon",
+      "latitude": 29.2169501,
+      "longitude": -110.8883936
+    },
+    {
+      "name": "El Zacaton",
+      "icon": "icon",
+      "latitude": 29.2751735,
+      "longitude": -110.8538855
+    },
+    {
+      "name": "Yecora",
+      "icon": "icon",
+      "latitude": 28.3671901,
+      "longitude": -108.939344
+    },
+    {
+      "name": "Basaseachi",
+      "icon": "icon",
+      "latitude": 28.1829199,
+      "longitude": -108.3018727
+    },
+    {
+      "name": "Ciudad Juarez",
+      "icon": "icon",
+      "latitude": 31.6538175,
+      "longitude": -106.5893643
+    },
+    {
+      "name": "Chihuahua",
+      "icon": "icon",
+      "latitude": 28.6708588,
+      "longitude": -106.2050473
+    },
+    {
+      "name": "Torreon",
+      "icon": "icon",
+      "latitude": 25.548597,
+      "longitude": -103.472128
+    },
+    {
+      "name": "Monterrey",
+      "icon": "icon",
+      "latitude": 25.6487278,
+      "longitude": -100.4435256
+    },
+    {
+      "name": "Queretaro",
+      "icon": "icon",
+      "latitude": 20.6121228,
+      "longitude": -100.4804294
+    },
+    {
+      "name": "Guaymas",
+      "icon": "icon",
+      "latitude": 27.9272571,
+      "longitude": -110.9781282
+    },
+    {
+      "name": "San Carlos",
+      "icon": "icon",
+      "latitude": 27.9598037,
+      "longitude": -111.0570437
+    },
+    {
+      "name": "Ciudad Obregon",
+      "icon": "icon",
+      "latitude": 27.4828047,
+      "longitude": -109.9759863
+    },
+    {
+      "name": "Pueblo Yaqui",
+      "icon": "icon",
+      "latitude": 27.3555247,
+      "longitude": -110.0408829
+    },
+    {
+      "name": "Navojoa",
+      "icon": "icon",
+      "latitude": 27.0679195,
+      "longitude": -109.486904
+    },
+    {
+      "name": "Alamos",
+      "icon": "icon",
+      "latitude": 27.0272506,
+      "longitude": -108.956654
+    },
+    {
+      "name": "Los Mochis",
+      "icon": "icon",
+      "latitude": 25.7586603,
+      "longitude": -109.089873
+    },
+    {
+      "name": "Culiacan",
+      "icon": "icon",
+      "latitude": 24.8049008,
+      "longitude": -107.4935262
+    },
+    {
+      "name": "Mazatlan",
+      "icon": "icon",
+      "latitude": 23.2467282,
+      "longitude": -106.4924893
+    },
+    {
+      "name": "Concordia",
+      "icon": "icon",
+      "latitude": 23.2879719,
+      "longitude": -106.0734144
+    },
+    {
+      "name": "Durango",
+      "icon": "icon",
+      "latitude": 24.0226823,
+      "longitude": -104.7179369
+    },
+    {
+      "name": "Guadalajara",
+      "icon": "icon",
+      "latitude": 20.6737776,
+      "longitude": -103.4056253
+    },
+    {
+      "name": "Colima",
+      "icon": "icon",
+      "latitude": 19.2400444,
+      "longitude": -103.7637131
+    },
+    {
+      "name": "Ciudad de Mexico",
+      "icon": "icon",
+      "latitude": 19.3906797,
+      "longitude": -99.2840426
+    },
+    {
+      "name": "Orizaba",
+      "icon": "icon",
+      "latitude": 18.8590902,
+      "longitude": -97.1143188
+    },
+    {
+      "name": "Tapachula",
+      "icon": "icon",
+      "latitude": 14.9113552,
+      "longitude": -92.313067
+    },
+    {
+      "name": "Cancun",
+      "icon": "icon",
+      "latitude": 21.1269031,
+      "longitude": -86.9149361
+    }
+  ]
+}
