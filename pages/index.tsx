@@ -33,7 +33,7 @@ export default function Home() {
               <span className="font-semibold">Encora</span>
             </h2>
             <p className="text-gray-600 dark:text-gray-400 mb-6 text-center">
-              Solving problems one at a time with or without Software and Learning how to build Products with Software.
+              Solving problems, with or without Software, one at a time and Learning how to build Products with Software.
             </p>
             <div className="w-[80px] sm:w-[176px] relative mb-8 sm:mb-0 text-center">
               <Image
@@ -61,7 +61,7 @@ export default function Home() {
           />
 
           <Card
-            title="B2B Tool to manage buses fleets and improve passenger experience."
+            title="B2B Tool to manage bus fleets and improve passenger experience."
             url="https://www.enrutate.info/"
             gradient="from-[#D8B4FE] to-[#818CF8]"
             project="Admin Dashboard"
