@@ -30,7 +30,7 @@ export default function Home() {
             </h1>
             <h2 className="text-gray-700 dark:text-gray-200 mb-4">
               Software Developer at{' '}
-              <span className="font-semibold">Encora</span>
+              <span className="font-semibold">ArkusNexus</span>
             </h2>
             <p className="text-gray-600 dark:text-gray-400 mb-6 text-center">
               Solving problems, with or without Software, one at a time and Learning how to build Products with Software.
