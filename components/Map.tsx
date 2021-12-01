@@ -19,8 +19,6 @@ export default function Map({ locations }) {
 
   const mapRef = useRef(null);
 
-  console.log('process.env.NEXT_PUBLIC_MAPBOX_KEY :>> ', process.env.NEXT_PUBLIC_MAPBOX_KEY);
-
   return <ReactMapGL
     {...viewport}
     width="100%"

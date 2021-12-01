@@ -22,14 +22,13 @@ export default function About() {
                 <span className="text-xl font-bold text-gray-700 dark:text-gray-200 my-2">I'm Manuel</span>
               </RainbowHighlight>
             </RoughNotationGroup>,
-            a
+            a passionate and experienced Mexican
             <RoughNotationGroup show={true}>
               <RainbowHighlight color={colors[1]}>
                 <span className="text-xl font-bold text-gray-700 dark:text-gray-200">Software Developer</span>
               </RainbowHighlight>
             </RoughNotationGroup>,
-            from México. Passionate and experienced Software Developer.
-            A creative thinker, adept in web and mobile development, working with various technologies to provide quality software solutions to human problems. Focused on deliver value to the final user. Never stop learning and share knowledge are my life mantras.
+            . creative thinker, adept in web and mobile development, working with various technologies to provide quality software solutions to human problems. Focused on delivering value to the final user. Never stop learning and share knowledge are my life mantras.
           </p>
           <p className="my-8 text-base">
             My toolbelt includes:
@@ -50,7 +49,7 @@ export default function About() {
             </RoughNotationGroup>,
 
             , leadership and teamwork. Since
-            I'm still learning how to build complete products, I not consider my self a fullstack developer, yet.
+            I'm still learning how to build complete products, I don't consider my self a fullstack developer...yet.
           </p>
         </div>
 
