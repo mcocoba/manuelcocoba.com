@@ -25,6 +25,12 @@
       "longitude": -118.6926086
     },
     {
+      "name": "Tucson",
+      "icon": "icon",
+      "latitude": 32.1558325,
+      "longitude": -111.0242336
+    },
+    {
       "name": "Ensenada",
       "icon": "icon",
       "latitude": 31.8423095,
