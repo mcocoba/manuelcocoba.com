@@ -10,9 +10,9 @@ const SIZE = 20;
 export default function Map({ locations }) {
 
   const [viewport, setViewport] = useState({
-    latitude: 23.5547397,
-    longitude: -102.8328403,
-    zoom: 3.2,
+    latitude: 35.3816221,
+    longitude: -52.790592,
+    zoom: 1.6,
     bearing: 0,
     pitch: 10
   });
