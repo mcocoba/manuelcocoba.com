@@ -395,6 +395,24 @@
       "icon": "icon",
       "latitude": 21.1269031,
       "longitude": -86.9149361
+    },
+    {
+      "name": "München",
+      "icon": "icon",
+      "latitude": 48.1550039,
+      "longitude": 11.4716248
+    },
+    {
+      "name": "Prague",
+      "icon": "icon",
+      "latitude": 50.0597587,
+      "longitude": 14.395413
+    },
+    {
+      "name": "Amsterdam",
+      "icon": "icon",
+      "latitude": 52.3546834,
+      "longitude": 4.7602698
     }
   ]
 }
