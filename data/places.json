@@ -413,6 +413,18 @@
       "icon": "icon",
       "latitude": 52.3546834,
       "longitude": 4.7602698
+    },
+    {
+      "name": "Vandenberg",
+      "icon": "icon",
+      "latitude": 34.6385366,
+      "longitude": -120.5451528
+    },
+    {
+      "name": "Solvang",
+      "icon": "icon",
+      "latitude": 34.5848615,
+      "longitude": -120.1549257
     }
   ]
 }

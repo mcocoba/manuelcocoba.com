@@ -13,7 +13,27 @@ export default function Portfolio() {
 
           <section>
             <div className="max-w-6xl mx-auto grid grid-cols-1 md:grid-cols-2 gap-8">
-              <a
+
+              <Link
+                href="https://openrun.mx/"
+                className="w-full block shadow-2xl"
+              >
+                <div className="relative overflow-hidden">
+                  <img
+                    src="/static/images/portfolio/openrun.jpeg"
+                    alt="portfolio"
+                    className="transform hover:scale-125 transition duration-2000 ease-out"
+                  />
+                  <h1 className="absolute top-10 left-10 text-gray-50 font-bold text-xl bg-red-500 rounded-md px-2">
+                    Open Run Mx
+                  </h1>
+                  <div className="absolute bottom-5 left-5 font-bold text-xl border-2 border-gray-100 border-solid rounded-md text-xs inline-block py-1 px-2 uppercase text-white bg-black uppercase last:mr-0 mr-1">
+                    React
+                  </div>
+                </div>
+              </Link>
+
+              <Link
                 href="https://weather.manuelcocoba.com/"
                 className="w-full block shadow-2xl"
               >
@@ -30,9 +50,9 @@ export default function Portfolio() {
                     React
                   </div>
                 </div>
-              </a>
+              </Link>
 
-              <a
+              <Link
                 href="https://www.enrutate.info/"
                 className="w-full block shadow-2xl"
               >
@@ -49,7 +69,7 @@ export default function Portfolio() {
                     React
                   </div>
                 </div>
-              </a>
+              </Link>
 
             </div>
           </section>
