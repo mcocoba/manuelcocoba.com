@@ -28,7 +28,7 @@ export default function Portfolio() {
                     Open Run Mx
                   </h1>
                   <div className="absolute bottom-5 left-5 font-bold text-xl border-2 border-gray-100 border-solid rounded-md text-xs inline-block py-1 px-2 uppercase text-white bg-black uppercase last:mr-0 mr-1">
-                    React
+                    NextJS
                   </div>
                 </div>
               </Link>

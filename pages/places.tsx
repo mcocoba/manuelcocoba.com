@@ -5,7 +5,7 @@ import data from './../data/places.json';
 
 export default function Places() {
 
-  const Map = dynamic(() => import("../components/Map"), {
+  const MapPlaces = dynamic(() => import("../components/Map"), {
     loading: () => <p>Loading...</p>,
     ssr: false
   });
@@ -20,7 +20,7 @@ export default function Places() {
           <p className="my-8 text-base min-w-full">
             Here are all the places where I stayed at least for one day or night. I'm not a traveler but when I do I like to visit places with someone who lives there because they can take you to non-tourist places.
           </p>
-          <Map locations={data.places} />
+          <MapPlaces locations={data.places} />
         </div>
       </div>
     </Container>
