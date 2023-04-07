@@ -3,212 +3,224 @@
     {
       "name": "Hermosillo",
       "icon": "icon",
-      "latitude": 29.0821369,
-      "longitude": -111.0591988
+      "latitude": 29.092934,
+      "longitude": -110.919672
     },
     {
       "name": "Tijuana",
       "icon": "icon",
-      "latitude": 32.4966814,
-      "longitude": -117.0882357
+      "latitude": 32.497345,
+      "longitude": -116.961409
     },
     {
       "name": "San Diego",
       "icon": "icon",
-      "latitude": 32.8242389,
-      "longitude": -117.3898552
+      "latitude": 32.715312,
+      "longitude": -117.163091
     },
     {
       "name": "Los Angeles",
       "icon": "icon",
-      "latitude": 34.0201597,
-      "longitude": -118.6926086
+      "latitude": 34.062145,
+      "longitude": -118.242407
     },
     {
       "name": "Tucson",
       "icon": "icon",
-      "latitude": 32.1558325,
-      "longitude": -111.0242336
+      "latitude": 32.219956,
+      "longitude": -110.973747
     },
     {
       "name": "Ensenada",
       "icon": "icon",
-      "latitude": 31.8423095,
-      "longitude": -116.6801533
+      "latitude": 31.865984,
+      "longitude": -116.603663
     },
     {
       "name": "Mexicali",
       "icon": "icon",
-      "latitude": 32.613739,
-      "longitude": -115.5205029
+      "latitude": 32.622593,
+      "longitude": -115.447884
     },
     {
       "name": "La Paz",
       "icon": "icon",
-      "latitude": 24.1164209,
-      "longitude": -110.3729391
+      "latitude": 24.142686,
+      "longitude": -110.312539
     },
     {
       "name": "San Luis Rio Colorado",
       "icon": "icon",
-      "latitude": 32.4457343,
-      "longitude": -114.7938268
+      "latitude": 32.453214,
+      "longitude": -114.769167
     },
     {
       "name": "Caborca",
       "icon": "icon",
-      "latitude": 30.7148646,
-      "longitude": -112.1791145
+      "latitude": 30.709072,
+      "longitude": -112.154743
     },
     {
       "name": "Puerto Libertad",
       "icon": "icon",
-      "latitude": 29.9064573,
-      "longitude": -112.7079415
+      "latitude": 29.905992,
+      "longitude": -112.682588
     },
     {
       "name": "Santa Ana",
       "icon": "icon",
-      "latitude": 30.5345495,
-      "longitude": -111.1397307
+      "latitude": 30.543361,
+      "longitude": -111.120938
     },
     {
       "name": "Magdalena de Kino",
       "icon": "icon",
-      "latitude": 30.6315351,
-      "longitude": -110.9928541
+      "latitude": 30.626841,
+      "longitude": -110.961319
     },
     {
       "name": "Nogales",
       "icon": "icon",
-      "latitude": 31.2875655,
-      "longitude": -110.9717718
+      "latitude": 31.30749,
+      "longitude": -110.942752
     },
     {
       "name": "Agua Prieta",
       "icon": "icon",
-      "latitude": 31.3115272,
-      "longitude": -109.5856731
+      "latitude": 31.324322,
+      "longitude": -109.549409
     },
     {
       "name": "Cananea",
       "icon": "icon",
-      "latitude": 30.9871252,
-      "longitude": -110.3015177
+      "latitude": 30.986213,
+      "longitude": -110.288918
     },
     {
       "name": "Arizpe",
       "icon": "icon",
-      "latitude": 30.3390805,
-      "longitude": -110.1753855
+      "latitude": 30.335948,
+      "longitude": -110.166409
     },
     {
       "name": "Huepac",
       "icon": "icon",
-      "latitude": 29.9122194,
-      "longitude": -110.2162284
+      "latitude": 29.912749,
+      "longitude": -110.213315
     },
     {
       "name": "Aconchi",
       "icon": "icon",
-      "latitude": 29.8228001,
-      "longitude": -110.2333377
+      "latitude": 29.825606,
+      "longitude": -110.226843
     },
     {
       "name": "Baviacora",
       "icon": "icon",
-      "latitude": 29.7164403,
-      "longitude": -110.1680083
+      "latitude": 29.708456,
+      "longitude": -110.159913
     },
     {
       "name": "Benjamin Hill",
       "icon": "icon",
-      "latitude": 30.1078511,
-      "longitude": -111.2651722
+      "latitude": 30.169338,
+      "longitude": -111.111311
     },
     {
       "name": "Querobabi",
       "icon": "icon",
-      "latitude": 30.0497055,
-      "longitude": -111.0359043
+      "latitude": 30.049675,
+      "longitude": -111.023743
     },
     {
       "name": "Carbo",
       "icon": "icon",
-      "latitude": 29.683465,
-      "longitude": -110.9676367
+      "latitude": 29.683753,
+      "longitude": -110.957564
     },
     {
       "name": "Punta Chueca",
       "icon": "icon",
-      "latitude": 29.01425,
-      "longitude": -112.1626316
+      "latitude": 29.01498,
+      "longitude": -112.16157
+    },
+    {
+      "name": "Isla del Tiburon",
+      "icon": "icon",
+      "latitude": 29.005016,
+      "longitude": -112.19544
     },
     {
       "name": "Bahia de Kino",
       "icon": "icon",
-      "latitude": 28.8443364,
-      "longitude": -112.0121835
+      "latitude": 28.824581,
+      "longitude": -111.939217
     },
     {
       "name": "Miguel Aleman",
       "icon": "icon",
-      "latitude": 28.8453724,
-      "longitude": -111.5066586
+      "latitude": 28.84125,
+      "longitude": -111.494722
     },
     {
       "name": "Ures",
       "icon": "icon",
-      "latitude": 29.4269998,
-      "longitude": -110.393735
+      "latitude": 29.426133,
+      "longitude": -110.387714
+    },
+    {
+      "name": "Puerta del Sol",
+      "icon": "icon",
+      "latitude": 29.458646,
+      "longitude": -110.274462
     },
     {
       "name": "Mazocahui",
       "icon": "icon",
-      "latitude": 29.5331459,
-      "longitude": -110.130962
+      "latitude": 29.53706,
+      "longitude": -110.118232
     },
     {
       "name": "Moctezuma",
       "icon": "icon",
-      "latitude": 29.8059812,
-      "longitude": -109.6892416
+      "latitude": 29.802484,
+      "longitude": -109.68117
     },
     {
       "name": "Huásabas",
       "icon": "icon",
-      "latitude": 29.9072812,
-      "longitude": -109.3083003
+      "latitude": 29.907161,
+      "longitude": -109.300901
     },
     {
       "name": "Nácori Chico",
       "icon": "icon",
-      "latitude": 29.685992,
-      "longitude": -109.01717
+      "latitude": 29.687121,
+      "longitude": -108.980432
     },
     {
       "name": "Topahue",
       "icon": "icon",
-      "latitude": 29.2739471,
-      "longitude": -110.6421554
+      "latitude": 29.274984,
+      "longitude": -110.639883
     },
     {
       "name": "Molino de Camou",
       "icon": "icon",
-      "latitude": 29.2021466,
-      "longitude": -110.7720307
+      "latitude": 29.201617,
+      "longitude": -110.763866
     },
     {
       "name": "Santa Rosalia",
       "icon": "icon",
-      "latitude": 29.1223224,
-      "longitude": -110.4962662
+      "latitude": 29.125374,
+      "longitude": -110.478665
     },
     {
       "name": "Mazatan",
       "icon": "icon",
-      "latitude": 29.0048243,
-      "longitude": -110.148843
+      "latitude": 29.005321,
+      "longitude": -110.139082
     },
     {
       "name": "Campo Verde",
@@ -219,158 +231,158 @@
     {
       "name": "Tastiota",
       "icon": "icon",
-      "latitude": 28.3666659,
-      "longitude": -111.4654429
+      "latitude": 28.367091,
+      "longitude": -111.457625
     },
     {
       "name": "El Choyudo",
       "icon": "icon",
-      "latitude": 28.3197926,
-      "longitude": -111.47721
+      "latitude": 28.319946,
+      "longitude": -111.452494
     },
     {
       "name": "El Colorado",
       "icon": "icon",
-      "latitude": 28.2876206,
-      "longitude": -111.4253138
+      "latitude": 28.288561,
+      "longitude": -111.416464
     },
     {
       "name": "San Pedro El Saucito",
       "icon": "icon",
-      "latitude": 29.1787091,
-      "longitude": -110.9076
+      "latitude": 29.178718,
+      "longitude": -110.888155
     },
     {
       "name": "El Saucito",
       "icon": "icon",
-      "latitude": 29.2169501,
-      "longitude": -110.8883936
+      "latitude": 29.209589,
+      "longitude": -110.882791
     },
     {
       "name": "El Zacaton",
       "icon": "icon",
-      "latitude": 29.2751735,
-      "longitude": -110.8538855
+      "latitude": 29.274562,
+      "longitude": -110.848302
     },
     {
       "name": "Yecora",
       "icon": "icon",
-      "latitude": 28.3671901,
-      "longitude": -108.939344
+      "latitude": 28.370272,
+      "longitude": -108.929046
     },
     {
       "name": "Basaseachi",
       "icon": "icon",
-      "latitude": 28.1829199,
-      "longitude": -108.3018727
+      "latitude": 28.20766,
+      "longitude": -108.207188
     },
     {
       "name": "Ciudad Juarez",
       "icon": "icon",
-      "latitude": 31.6538175,
-      "longitude": -106.5893643
+      "latitude": 31.715961,
+      "longitude": -106.450206
     },
     {
       "name": "Chihuahua",
       "icon": "icon",
-      "latitude": 28.6708588,
-      "longitude": -106.2050473
+      "latitude": 28.656826,
+      "longitude": -106.092738
     },
     {
       "name": "Torreon",
       "icon": "icon",
-      "latitude": 25.548597,
-      "longitude": -103.472128
+      "latitude": 25.546258,
+      "longitude": -103.410203
     },
     {
       "name": "Monterrey",
       "icon": "icon",
-      "latitude": 25.6487278,
-      "longitude": -100.4435256
+      "latitude": 25.683684,
+      "longitude": -100.317345
     },
     {
       "name": "Queretaro",
       "icon": "icon",
-      "latitude": 20.6121228,
-      "longitude": -100.4804294
+      "latitude": 20.599795,
+      "longitude": -100.398161
     },
     {
       "name": "Guaymas",
       "icon": "icon",
-      "latitude": 27.9272571,
-      "longitude": -110.9781282
+      "latitude": 27.923153,
+      "longitude": -110.898945
     },
     {
       "name": "San Carlos",
       "icon": "icon",
-      "latitude": 27.9598037,
-      "longitude": -111.0570437
+      "latitude": 27.971576,
+      "longitude": -111.032523
     },
     {
       "name": "Ciudad Obregon",
       "icon": "icon",
-      "latitude": 27.4828047,
-      "longitude": -109.9759863
+      "latitude": 27.486572,
+      "longitude": -109.934025
     },
     {
       "name": "Pueblo Yaqui",
       "icon": "icon",
-      "latitude": 27.3555247,
-      "longitude": -110.0408829
+      "latitude": 27.355487,
+      "longitude": -110.033052
     },
     {
       "name": "Navojoa",
       "icon": "icon",
-      "latitude": 27.0679195,
-      "longitude": -109.486904
+      "latitude": 27.080129,
+      "longitude": -109.447598
     },
     {
       "name": "Alamos",
       "icon": "icon",
-      "latitude": 27.0272506,
-      "longitude": -108.956654
+      "latitude": 27.026251,
+      "longitude": -108.934574
     },
     {
       "name": "Los Mochis",
       "icon": "icon",
-      "latitude": 25.7586603,
-      "longitude": -109.089873
+      "latitude": 25.799072,
+      "longitude": -108.993504
     },
     {
       "name": "Culiacan",
       "icon": "icon",
-      "latitude": 24.8049008,
-      "longitude": -107.4935262
+      "latitude": 24.80251,
+      "longitude": -107.393065
     },
     {
       "name": "Mazatlan",
       "icon": "icon",
-      "latitude": 23.2467282,
-      "longitude": -106.4924893
+      "latitude": 23.226007,
+      "longitude": -106.41556
     },
     {
       "name": "Concordia",
       "icon": "icon",
-      "latitude": 23.2879719,
-      "longitude": -106.0734144
+      "latitude": 23.287995,
+      "longitude": -106.067467
     },
     {
       "name": "Durango",
       "icon": "icon",
-      "latitude": 24.0226823,
-      "longitude": -104.7179369
+      "latitude": 24.024142,
+      "longitude": -104.654678
     },
     {
       "name": "Guadalajara",
       "icon": "icon",
-      "latitude": 20.6737776,
-      "longitude": -103.4056253
+      "latitude": 20.676762,
+      "longitude": -103.339367
     },
     {
       "name": "Colima",
       "icon": "icon",
-      "latitude": 19.2400444,
-      "longitude": -103.7637131
+      "latitude": 19.24747,
+      "longitude": -103.720893
     },
     {
       "name": "Ciudad de Mexico",
@@ -381,38 +393,68 @@
     {
       "name": "Orizaba",
       "icon": "icon",
-      "latitude": 18.8590902,
-      "longitude": -97.1143188
+      "latitude": 18.851175,
+      "longitude": -97.105791
     },
     {
       "name": "Tapachula",
       "icon": "icon",
-      "latitude": 14.9113552,
-      "longitude": -92.313067
+      "latitude": 14.911968,
+      "longitude": -92.263651
     },
     {
       "name": "Cancun",
       "icon": "icon",
-      "latitude": 21.1269031,
-      "longitude": -86.9149361
+      "latitude": 21.165943,
+      "longitude": -86.846697
     },
     {
       "name": "München",
       "icon": "icon",
-      "latitude": 48.1550039,
-      "longitude": 11.4716248
+      "latitude": 48.150452,
+      "longitude": 11.57888
     },
     {
       "name": "Prague",
       "icon": "icon",
-      "latitude": 50.0597587,
-      "longitude": 14.395413
+      "latitude": 50.089703,
+      "longitude": 14.42058
     },
     {
       "name": "Amsterdam",
       "icon": "icon",
-      "latitude": 52.3546834,
-      "longitude": 4.7602698
+      "latitude": 52.374317,
+      "longitude": 4.893105
+    },
+    {
+      "name": "Vandenberg",
+      "icon": "icon",
+      "latitude": 34.637938,
+      "longitude": -120.458123
+    },
+    {
+      "name": "Solvang",
+      "icon": "icon",
+      "latitude": 34.596298,
+      "longitude": -120.138853
+    },
+    {
+      "name": "Santa Barbara",
+      "icon": "icon",
+      "latitude": 34.428244,
+      "longitude": -119.701752
+    },
+    {
+      "name": "Joshua Tree",
+      "icon": "icon",
+      "latitude": 33.923151,
+      "longitude": -115.840201
+    },
+    {
+      "name": "Mount Lemmon",
+      "icon": "icon",
+      "latitude": 32.446841,
+      "longitude": -110.789156
     }
   ]
 }

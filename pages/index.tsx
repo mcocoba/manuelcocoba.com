@@ -33,7 +33,7 @@ export default function Home() {
               <span className="font-semibold">ArkusNexus</span>
             </h2>
             <p className="text-gray-600 dark:text-gray-400 mb-6 text-center">
-              Solving problems, with or without software, one at a time. Learning how to build products with software.
+              Solving problems, with or without software, one at a time. Learning how to build products.
             </p>
             <div className="w-[80px] sm:w-[176px] relative mb-8 sm:mb-0 text-center">
               <Image

@@ -158,6 +158,11 @@ export default function Timeline() {
       </h3>
       <Year>2022</Year>
       <ul>
+        <Step title="Engineering Manager at Drata 🧑🏽‍💻" stack={['React', 'JS', 'TS']}>
+          In partnership with Arkus, I'm working as EM at Drata.
+        </Step>
+      </ul>
+      <ul>
         <Step title="Re-joined ArkusNexus 🧑🏽‍💻" stack={['React', 'NestJS', 'JS', 'TS']}>
           I returned to ArkusNexus to work as tech lead and help the organization improve operational activities.
         </Step>
