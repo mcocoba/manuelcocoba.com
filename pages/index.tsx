@@ -54,6 +54,13 @@ export default function Home() {
 
         <div className="flex gap-6 flex-col md:flex-row">
           <Card
+            title="Open Run, sports agency, basketball talent platform."
+            url="https://openrun.mx/"
+            gradient="from-[#FDE68A] via-[#FCA5A5] to-[#FECACA]"
+            project="Open Run"
+          />
+
+          <Card
             title="Pet Project, Weather app consuming the OpenWeatherAPI"
             url="https://weather.manuelcocoba.com/"
             gradient="from-[#6EE7B7] via-[#3B82F6] to-[#9333EA]"
@@ -65,13 +72,6 @@ export default function Home() {
             url="https://www.enrutate.info/"
             gradient="from-[#D8B4FE] to-[#818CF8]"
             project="Admin Dashboard"
-          />
-
-          <Card
-            title="Your own weather network, custom API to allow IOT devices sense weather data."
-            url="https://weather.manuelcocoba.com/"
-            gradient="from-[#FDE68A] via-[#FCA5A5] to-[#FECACA]"
-            project="WIP"
           />
         </div>
 
