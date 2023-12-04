@@ -455,6 +455,24 @@
       "icon": "icon",
       "latitude": 32.446841,
       "longitude": -110.789156
+    },
+    {
+      "name": "Dubai",
+      "icon": "icon",
+      "latitude": 25.0762789,
+      "longitude": 54.8971483
+    },
+    {
+      "name": "Abu Dhabi",
+      "icon": "icon",
+      "latitude": 24.3870538,
+      "longitude": 54.3934664
+    },
+    {
+      "name": "Al Ain",
+      "icon": "icon",
+      "latitude": 24.1932164,
+      "longitude": 55.5817126
     }
   ]
 }
