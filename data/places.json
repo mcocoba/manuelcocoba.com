@@ -459,20 +459,62 @@
     {
       "name": "Dubai",
       "icon": "icon",
-      "latitude": 25.0762789,
-      "longitude": 54.8971483
+      "latitude": 25.25930371,
+      "longitude": 54.28580988
     },
     {
       "name": "Abu Dhabi",
       "icon": "icon",
-      "latitude": 24.3870538,
-      "longitude": 54.3934664
+      "latitude": 24.45386532,
+      "longitude": 54.37735639
     },
     {
       "name": "Al Ain",
       "icon": "icon",
-      "latitude": 24.1932164,
-      "longitude": 55.5817126
+      "latitude": 24.22455322,
+      "longitude": 55.74460659
+    },
+    {
+      "name": "Salzburg",
+      "icon": "icon",
+      "latitude": 47.79796915,
+      "longitude": 13.04708498
+    },
+    {
+      "name": "Zugspitze",
+      "icon": "icon",
+      "latitude": 47.42119204,
+      "longitude": 10.98630477
+    },
+    {
+      "name": "Berlin",
+      "icon": "icon",
+      "latitude": 52.51667427,
+      "longitude": 13.388809671
+    },
+    {
+      "name": "Brussels",
+      "icon": "icon",
+      "latitude": 50.846128513,
+      "longitude": 4.351349622
+    },
+    {
+      "name": "Ghent",
+      "icon": "icon",
+      "latitude": 51.053836798,
+      "longitude": 3.725246737
+    },
+    {
+      "name": "Bruges",
+      "icon": "icon",
+      "latitude": 51.208383233,
+      "longitude": 3.22682066129
+    },
+    {
+      "name": "Paris",
+      "icon": "icon",
+      "latitude": 48.8537163815,
+      "longitude": 2.351216233
     }
   ]
 }
