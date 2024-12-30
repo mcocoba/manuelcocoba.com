@@ -459,8 +459,8 @@
     {
       "name": "Dubai",
       "icon": "icon",
-      "latitude": 25.0756584,
-      "longitude": 54.8978326
+      "latitude": 25.1971756,
+      "longitude": 55.2738
     },
     {
       "name": "Abu Dhabi",
@@ -519,20 +519,44 @@
     {
       "name": "Nuremberg",
       "icon": "icon",
-      "latitude": 49.434416,
+      "latitude": 49.4539924,
       "longitude": 10.5092577
     },
     {
       "name": "Neuschwanstein",
       "icon": "icon",
-      "latitude": 47.5605472,
-      "longitude": 10.736843
+      "latitude": 47.557577,
+      "longitude": 11.0771598
     },
     {
       "name": "Linderhof",
       "icon": "icon",
-      "latitude": 47.5669984,
-      "longitude": 10.9424857
+      "latitude": 47.5716666,
+      "longitude": 10.9599877
+    },
+    {
+      "name": "Playa del Carmen",
+      "icon": "icon",
+      "latitude": 20.6303873,
+      "longitude": -87.0670826
+    },
+    {
+      "name": "Puerto Vallarta",
+      "icon": "icon",
+      "latitude": 20.681935,
+      "longitude": -105.2498554
+    },
+    {
+      "name": "Oceanside",
+      "icon": "icon",
+      "latitude": 33.194411,
+      "longitude": -117.3834379
+    },
+    {
+      "name": "Las Vegas",
+      "icon": "icon",
+      "latitude": 36.0990876,
+      "longitude": -115.1754739
     }
   ]
 }

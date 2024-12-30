@@ -15,9 +15,9 @@ export default function MapPlaces({ locations }) {
   return <MapProvider>
     <Map
       initialViewState={{
-        latitude: 19.3906797,
-        longitude: -99.2840426,
-        zoom: 3,
+        latitude: 29.3353899,
+        longitude: -108.4416098,
+        zoom: 2,
         bearing: 3,
         pitch: 3
       }}
