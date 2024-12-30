@@ -165,7 +165,7 @@ export default function Timeline() {
       <Year>2022</Year>
       <ul>
         <Step title="Tech Lead at Drata 🧑🏽‍💻" stack={['React', 'JS', 'TS']}>
-          In partnership with Arkus, I'm working as EM at Drata.
+          In partnership with Arkus, I worked as TL at Drata.
         </Step>
       </ul>
       <ul>

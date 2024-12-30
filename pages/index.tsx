@@ -40,8 +40,8 @@ export default function Home() {
                 alt="Manuel Cocoba Profile Photo"
                 height={176}
                 width={176}
-                src="/avatar_one.png"
-                className="rounded-full filter grayscale"
+                src="/mc.jpg"
+                className="rounded-full filter "
               />
             </div>
           </div>

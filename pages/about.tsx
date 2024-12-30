@@ -47,7 +47,7 @@ export default function About() {
                 <span className="text-xl font-bold text-gray-700 dark:text-gray-300">JavaScript</span>
               </RainbowHighlight>
             </RoughNotationGroup>
-            , and much more, along with strong leadership and teamwork skills. I’m constantly evolving my skills to build complete and impactful products—and I’m excited about what’s next!"
+            , and much more, along with strong leadership and teamwork skills. I’m constantly evolving my skills to build complete and impactful products—and I’m excited about what’s next!
           </p>
         </div>
 

@@ -2,10 +2,15 @@ import { useRef } from "react";
 import Map, { Marker, MapProvider } from "react-map-gl";
 
 import 'mapbox-gl/dist/mapbox-gl.css';
+import { ProjectionSpecification } from "mapbox-gl";
 
 export default function MapPlaces({ locations }) {
 
   const mapRef = useRef(null);
+
+  const finalProjection: ProjectionSpecification = {
+    name: "globe"
+  }
 
   return <MapProvider>
     <Map
@@ -18,21 +23,22 @@ export default function MapPlaces({ locations }) {
       }}
       style={{ width: '100%', height: '100%' }}
       mapStyle='mapbox://styles/mapbox/streets-v12'
-      projection={'globe'}
-      mapboxAccessToken={process.env.NEXT_PUBLIC_MAPBOX_KEY}
-      ref={mapRef}
+      projection={finalProjection}
+      mapboxAccessToken={process.env.NEXT_PUBLIC_MAPBOX_ACCESS_TOKEN}
     >
-      {locations.map((item, index) => (
-        <div key={`${item.latitude}/${item.longitude}`}>
-          <Marker
-            key={`marker-${index}`}
-            longitude={item.longitude}
-            latitude={item.latitude}
-            color="red"
-            scale={.5}>
-          </Marker>
-        </div>
-      ))}
+      {
+        locations.map((item, index) => (
+          <div key={`${item.latitude}/${item.longitude}`}>
+            <Marker
+              key={`marker-${index}`}
+              longitude={item.longitude}
+              latitude={item.latitude}
+              color="red"
+              scale={.5}>
+            </Marker>
+          </div>
+        ))
+      }
     </Map>
   </MapProvider >
 }

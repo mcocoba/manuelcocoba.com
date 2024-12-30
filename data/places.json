@@ -459,8 +459,8 @@
     {
       "name": "Dubai",
       "icon": "icon",
-      "latitude": 25.25930371,
-      "longitude": 54.28580988
+      "latitude": 25.0756584,
+      "longitude": 54.8978326
     },
     {
       "name": "Abu Dhabi",
@@ -515,6 +515,24 @@
       "icon": "icon",
       "latitude": 48.8537163815,
       "longitude": 2.351216233
+    },
+    {
+      "name": "Nuremberg",
+      "icon": "icon",
+      "latitude": 49.434416,
+      "longitude": 10.5092577
+    },
+    {
+      "name": "Neuschwanstein",
+      "icon": "icon",
+      "latitude": 47.5605472,
+      "longitude": 10.736843
+    },
+    {
+      "name": "Linderhof",
+      "icon": "icon",
+      "latitude": 47.5669984,
+      "longitude": 10.9424857
     }
   ]
 }
