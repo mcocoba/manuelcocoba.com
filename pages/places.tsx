@@ -18,7 +18,7 @@ export default function Places() {
         </h1>
         <div className="h-96 w-full mb-8 leading-6 text-gray-600 dark:text-gray-400">
           <p className="my-8 text-base min-w-full">
-            Here are all the places where I stayed at least for one day or night. I'm not a traveler but when I do I like to visit places with someone who lives there because they can take you to non-tourist places.
+            These are all the places I've stayed for at least a day or night. While I don’t consider myself an avid traveler, I really enjoy visiting places with locals—they always know the hidden gems that tourists might miss.
           </p>
           <MapPlaces locations={data.places} />
         </div>

@@ -33,15 +33,15 @@ export default function Home() {
               <span className="font-semibold">ArkusNexus</span>
             </h2>
             <p className="text-gray-600 dark:text-gray-400 mb-6 text-center">
-              Solving problems, with or without software, one at a time. Learning how to build products.
+              Engineering solutions that work, driven by curiosity and a love for problem-solving.
             </p>
             <div className="w-[80px] sm:w-[176px] relative mb-8 sm:mb-0 text-center">
               <Image
                 alt="Manuel Cocoba Profile Photo"
                 height={176}
                 width={176}
-                src="/avatar_one.png"
-                className="rounded-full filter grayscale"
+                src="/mc.jpg"
+                className="rounded-full filter "
               />
             </div>
           </div>
