@@ -52,7 +52,7 @@ const FullTimeline = () => (
     <Year>2016</Year>
     <ul>
       <Step title="Returned to Hermosillo, Mex.">
-        In the end I didn't match with AhorroLibre's ideology and I decided to return to my hometown.
+        In the end, I realized that my values didn’t align with AhorroLibre’s ideology, so I decided to return to my hometown.
       </Step>
       <Step title="Joined ISEA 🧑🏽‍💻" stack={['PHP', 'Laravel']}>
         I joined ISEA, a government office as lead developer.
@@ -99,20 +99,20 @@ const FullTimeline = () => (
     <Year>2010</Year>
     <ul>
       <Step title="1st National Basketball Tournament.">
-        I played my 1st national tournament with my university team (ITH Venados). 5th position out of 12.
+        I competed in my first national tournament with my university team, ITH Venados, where we earned 5th place out of 12 teams.
       </Step>
       <Step title="Landed my 1st software developer position." stack={['PHP']}>
-        Local company focused on real estate appraisals hired me to maintain and develop their internal tools. Php and MySql.
+        A local real estate appraisal company hired me to maintain and develop their internal tools, working primarily with PHP and MySQL.
       </Step>
       <Step title="Dropout university.">
-        I fell in love with programming and at that point, I'd already passed all the programming-related subjects and I decided to drop out and focus 100% on my software development job.
+        I fell in love with programming, and by that point, I had already completed all the programming-related subjects in my studies. I made the bold decision to drop out and dedicate myself fully to my software development career.
       </Step>
     </ul>
     <Divider />
     <Year>2009</Year>
     <ul>
       <Step title="First IT job 🔥">
-        I worked for a local company as the printer & network and support guy.
+        I worked for a local company as the IT guy.
       </Step>
       <Step title="Won my 1st Mayor basketball tournament.">
         English Clinic amateur team, we won our 1st "Primera Fuerza" tournament. (Sonora State League - Category A)
@@ -122,10 +122,10 @@ const FullTimeline = () => (
     <Year>2008</Year>
     <ul>
       <Step title="1st web page created.">
-        I built my personal website with pure html and css, hosted in AngelFire free hosting tool, sadly I lost the access and the source code.
+        I built my first personal website using pure HTML and CSS, hosting it on AngelFire’s free platform. Unfortunately, I eventually lost access to both the site and the source code.
       </Step>
       <Step title="Winamp Shoutcast radio streaming server.">
-        I configured and launched my own internet radio project, with Winamp Shoutcast Server, it was live for 5 months.
+        I set up and launched my own internet radio project using Winamp and the Shoutcast Server. It ran successfully for five months.
       </Step>
     </ul>
     <Divider />
@@ -135,7 +135,7 @@ const FullTimeline = () => (
         Started studying for a BA in Information Technology.
       </Step>
       <Step title="University Basketball A Team 🏀 ⛹🏽‍♂️">
-        I trained during the summer. As soon as the scholar year started they invited me to the A team.
+        Over the summer, I put in the effort and trained hard, and when the school year began, my dedication paid off—I earned an invitation to join the A team.
       </Step>
     </ul>
     <Divider />
@@ -156,9 +156,15 @@ export default function Timeline() {
       <h3 className="font-bold text-2xl md:text-4xl tracking-tight mb-4 mt-8 text-black dark:text-white">
         Timeline
       </h3>
-      <Year>2022</Year>
+      <Year>Current</Year>
       <ul>
         <Step title="Engineering Manager at Drata 🧑🏽‍💻" stack={['React', 'JS', 'TS']}>
+          In partnership with Arkus, I'm working as EM at Drata.
+        </Step>
+      </ul>
+      <Year>2022</Year>
+      <ul>
+        <Step title="Tech Lead at Drata 🧑🏽‍💻" stack={['React', 'JS', 'TS']}>
           In partnership with Arkus, I'm working as EM at Drata.
         </Step>
       </ul>
