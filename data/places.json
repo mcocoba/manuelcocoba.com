@@ -557,6 +557,18 @@
       "icon": "icon",
       "latitude": 36.0990876,
       "longitude": -115.1754739
+    },
+    {
+      "name": "Chichén-Itzá",
+      "icon": "icon",
+      "latitude": 20.6836586,
+      "longitude": -88.569569
+    },
+    {
+      "name": "Cozumel",
+      "icon": "icon",
+      "latitude": 20.5073618,
+      "longitude": -86.949568
     }
   ]
 }
