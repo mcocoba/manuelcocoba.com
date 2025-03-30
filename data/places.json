@@ -569,6 +569,18 @@
       "icon": "icon",
       "latitude": 20.5073618,
       "longitude": -86.949568
+    },
+    {
+      "name": "Creel",
+      "icon": "icon",
+      "latitude": 27.7504103,
+      "longitude": -107.632314
+    },
+    {
+      "name": "Divisadero",
+      "icon": "icon",
+      "latitude": 27.516988,
+      "longitude": -107.826566
     }
   ]
 }
