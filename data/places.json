@@ -581,6 +581,30 @@
       "icon": "icon",
       "latitude": 27.516988,
       "longitude": -107.826566
+    },
+    {
+      "name": "Tokyo",
+      "icon": "icon",
+      "latitude": 35.686384,
+      "longitude": 139.691774
+    },
+    {
+      "name": "Osaka",
+      "icon": "icon",
+      "latitude": 34.68936395,
+      "longitude": 135.503781
+    },
+    {
+      "name": "Kyoto",
+      "icon": "icon",
+      "latitude": 35.009815,
+      "longitude": 135.77067
+    },
+    {
+      "name": "Nara",
+      "icon": "icon",
+      "latitude": 34.68936395,
+      "longitude": 135.503781
     }
   ]
 }
