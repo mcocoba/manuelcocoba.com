@@ -1,8 +1,8 @@
 import Container from '../components/Container';
 
-export default function Raft() {
+export default function Raffle() {
   return (
-    <Container title="Raft – Manuel Cocoba">
+    <Container title="Raffle – Manuel Cocoba">
       <div className="flex flex-col justify-center items-center min-h-screen">
         <img
           src="/static/images/monkey.gif"
